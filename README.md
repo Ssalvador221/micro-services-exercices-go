@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Microservices Architecture Journey (Go)
 
 This repository demonstrates the evolution of a backend system using different architectural patterns:
@@ -21,3 +22,7 @@ Transform a simple inventory system into a scalable microservices architecture.
 - Hexagonal Architecture
 - gRPC communication
 - Kubernetes deployment
+=======
+# micro-services-exercices-go
+A repository for micro-services in Go and different type of architectures.
+>>>>>>> d11a286 (wip: added folters, project structure and init v1 project)
